@@ -1,0 +1,7 @@
+echo "# Delavodhelp-1997" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git branch -M main 
+git remote add origin https://github.com/Delavodhelp-1997/Delavodhelp- 1997.
+ git git push -u origin main
